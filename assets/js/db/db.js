@@ -1,0 +1,58 @@
+const db = [
+  {
+    _cargo: 'Aluno',
+    _contato: '1231321',
+    _dataNascimento: '1993-02-03',
+    _email: 'tata@msn.com',
+    _nome: 'Tata',
+    _sobrenome: 'Nunes',
+    _telefone: '17982089348',
+  },
+  {
+    _cargo: 'Aluno',
+    _contato: '1231321',
+    _dataNascimento: '1993-02-03',
+    _email: 'joao@msn.com',
+    _nome: 'Joao',
+    _sobrenome: 'Almeida',
+    _telefone: '17982089348',
+  },
+  {
+    _cargo: 'Instrutor',
+    _contato: '1231321',
+    _dataNascimento: '1993-02-03',
+    _email: 'carlos@msn.com',
+    _nome: 'Carlos',
+    _sobrenome: 'Ferreira',
+    _telefone: '17982089348',
+  },
+  {
+    _cargo: 'Instrutor',
+    _contato: '1231321',
+    _dataNascimento: '1993-02-03',
+    _email: 'marco@msn.com',
+    _nome: 'Marco',
+    _sobrenome: 'Fernandez',
+    _telefone: '17982089348',
+  },
+  {
+    _cargo: 'Facilitador',
+    _contato: '1231321',
+    _dataNascimento: '1993-02-03',
+    _email: 'caio@msn.com',
+    _nome: 'Caio',
+    _sobrenome: 'Abreu',
+    _telefone: '17982089348',
+  },
+  {
+    _cargo: 'Facilitador',
+    _contato: '1231321',
+    _dataNascimento: '1993-02-03',
+    _email: 'julia@msn.com',
+    _nome: 'Julia',
+    _sobrenome: 'Pereira',
+    _telefone: '17982089348',
+  },
+]
+
+export { db }
