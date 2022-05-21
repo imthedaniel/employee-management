@@ -36,8 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <table border="0">
  <tr>
-<td> HTML</td>
-<td> CSS</td>
+<td> HTML5</td>
+<td> CSS3</td>
 <td> JavaScript</td>
 <td> DOM</td>
 <td> POO</td>
