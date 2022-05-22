@@ -32,7 +32,7 @@ Neste app você consegue efetuar o cadastro de funcionários e ao lado acompanha
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 
 <table border="0">
  <tr>
